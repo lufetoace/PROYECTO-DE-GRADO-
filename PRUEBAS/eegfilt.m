@@ -178,4 +178,3 @@ for e = 1:epochs                % filter each epoch, channel
     end
 end
 fprintf('\n');
-
